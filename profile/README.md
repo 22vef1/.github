@@ -7,7 +7,7 @@
 3. Til að geta unnið verkefnin í áfangageymslunni verður þú að klóna geymsluna yfir á þína tölvu
    * Farið verður yfir hvernig það er gert í kennslutíma og hvernig á að virkja Git umsjónarkerfið inn í _Visual Studio Code_ forritinu
 
-* Verkefnalýsingar eru í [https://github.com/vefgrunnur/22H/verkefni](https://github.com/vefgrunnur/22H/verkefni)
+* Verkefnalýsingar eru í [https://github.com/vefgrunnur/22H/Verkefni/](https://github.com/vefgrunnur/22H/verkefni)
 * Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í INNU 
 * Einkunnir eru birtar í Innu
 
