@@ -5,7 +5,7 @@
 2. Áfangageymslan inniheldur möppur þar sem þú skilar öllum verkefnum áfangans sem lögð eru fyrir
    * Áfangageymslan er lokuð (_privat_) öðrum en nemanda og kennara sem fer yfir verkefnin þar.
 3. Til að geta unnið verkefnin í áfangageymslunni verður þú að klóna geymsluna yfir á þína tölvu
-   * [Git verkelag][https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+   * [Git verklag](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
    * Farið verður yfir hvernig það er gert í kennslutíma og hvernig á að virkja Git umsjónarkerfið inn í _Visual Studio Code_ forritinu
 
 * Verkefnalýsingar eru í [https://github.com/vefgrunnur/22H/Verkefni/](https://github.com/vefgrunnur/22H/tree/main/Verkefni)
