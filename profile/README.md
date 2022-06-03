@@ -9,7 +9,7 @@
    * Farið verður yfir hvernig á að virkja Git umsjónarkerfið í _Visual Studio Code_ forritinu í kennslutíma
 
 * Verkefnalýsingar eru í [https://github.com/vefgrunnur/22H/Verkefni/](https://github.com/vefgrunnur/22H/tree/main/Verkefni)
-* Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í INNU 
+* Yfirferð verkefna miðast við stöðu verkefna á skiladegi sem er tilgreindur í námsáætlun. 
 * Einkunnir eru birtar í Innu
 
 🧙 Athugið að það er ekki farið yfir verkefni sem er skilað í INNU
