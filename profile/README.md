@@ -14,7 +14,7 @@
     * Þú opnar tengilinn í vafra og Github miðillinn býr til áfangageymslu fyrir þig
 2. Áfangageymslan inniheldur möppur þar sem þú skilar öllum verkefnum áfangans sem lögð eru fyrir
    * Áfangageymslan er vistuð á [https://github.com/22vef1](https://github.com/22vef1), geymslan er lokuð (_privat_) öðrum en nemanda og kennara sem fer yfir verkefnin þar.
-   * Verkefnalýsingar eru í [https://github.com/vefgrunnur/22V/verkefni](https://github.com/vefgrunnur/22V/verkefni)
+   * Verkefnalýsingar eru í [https://github.com/vefgrunnur/22H/verkefni](https://github.com/vefgrunnur/22H/verkefni)
 3. Til að geta unnið verkefnin í áfangageymslunni verður þú að klóna geymsluna yfir á þína tölvu
    * Farið verður yfir hvernig það er gert í kennslutíma og hvernig á að virkja Git umsjónarkerfið inn í _Visual Studio Code_ forritinu
 
