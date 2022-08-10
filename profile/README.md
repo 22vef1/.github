@@ -1,6 +1,6 @@
 ## Áfangageymsla (_Classroom Repository_)  👋
 
-1.  Þegar þú hefur skilað Github notendanafni þínu í **INNU**, verkefni 1, þá færðu senda þátttökubeiðni (_invitation link_) 
+1.  Þegar þú hefur skilað Github notendanafni þínu  (_username_) í **INNU, verkefni 1** þá færðu senda þátttökubeiðni (_invitation link_) 
     * Þú opnar tengilinn í vafra og Github miðillinn býr til áfangageymslu fyrir þig
 2. Áfangageymslan inniheldur möppur þar sem þú skilar öllum verkefnum áfangans sem lögð eru fyrir
    * Áfangageymslan er lokuð (_privat_) öðrum en nemanda og kennara sem fer yfir verkefnin þar.
