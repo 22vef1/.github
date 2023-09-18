@@ -1,2 +1,2 @@
 # .github
-Áfangageymsla VEFÞ1VG
+Magnús Theodór Magnússon
